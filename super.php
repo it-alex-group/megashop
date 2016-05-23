@@ -5,7 +5,7 @@
     <title>megashop</title>
 </head>
 <body>
-измененния
+2
 
 </body>
 </html>
